@@ -1,1 +1,20 @@
 # aula-2
+<body>
+    <h1> Segunda aula  </h1>
+    <h3> data: 19/02/2024</h3>
+    <button onclick="exibir();">Exibir</button> <br>
+    <script> 
+    function exibir (){
+        window.alert ("Exibindo os resultados.")
+    document.write ("JavaScript");
+    document.write ("<br>");
+    document.write (5+5);
+    document.write ("<br>");
+    let x = 3 + 2;
+    document.write (x);
+    console.log ("teste!");
+    console.log ("valor de x= " +x);
+    }
+    let data = document.getElementById("d.").innerHTML;
+    </script>
+</body>
